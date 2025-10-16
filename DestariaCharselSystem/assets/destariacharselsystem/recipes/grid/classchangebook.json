@@ -1,0 +1,16 @@
+[
+    {
+        "ingredientPattern": "_LI,SPG,_L_",
+        "ingredients": {
+            "L": { "type": "item", "code": "game:leather-normal-pink","quantity": 2 },
+            "I": { "type": "item", "code": "game:inkandquill" },
+            "S": { "type": "item", "code": "game:metalbit-silver", "quantity": 20 },
+            "P": { "type": "item", "code": "game:paper-parchment", "quantity": 10 },
+            "G": { "type": "item", "code": "game:gear-temporal", "quantity": 2 }
+        },
+        "width": 3,
+        "height": 3,
+        "shapeless": false,
+        "output": { "type": "item", "code": "destariacharselsystem:classchangebook", "stackSize": 1 }
+    }
+]
