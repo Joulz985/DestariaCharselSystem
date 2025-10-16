@@ -1,0 +1,26 @@
+{
+	"money": { "avg": 100, "var": 20, "item": "destaria:gold-coin" },
+	"selling": {
+		"maxItems": 16,
+		"list": [
+			{
+				"code": "destariacharselsystem:classchangereceipt",
+				"attributes": { "type": "item" },
+				"type": "item",
+				"stacksize": 1,
+				"stock": {
+					"avg": 10,
+					"var": 0
+				},
+				"price": {
+					"avg": 12.5,
+					"var": 2.5
+				}
+			}
+		]
+	},
+	"buying": {
+		"maxItems": 16,
+		"list": [		]
+	}
+}
