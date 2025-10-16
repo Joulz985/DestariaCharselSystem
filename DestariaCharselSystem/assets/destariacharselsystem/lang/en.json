@@ -1,3 +1,6 @@
 {
-    "hello": "hello world!"
+    "destariacharselsystem:item-classchangebook": "Class change book",
+    "destariacharselsystem:item-creature-classmerchant": "Class merchant",
+    "game:tradingwindow-classmerchant": "Class merchant {0}",
+    "destariacharselsystem:tradingwindow-classmerchant": "Class merchant {0}"
 }

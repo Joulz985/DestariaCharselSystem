@@ -60,6 +60,7 @@
 	]
 },
 	"attributes": {
+	"tradercategory": "classmerchant",
     "tradePropsFile": "destariacharselsystem:config/tradelists/classmerchant"
 },
 

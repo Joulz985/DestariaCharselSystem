@@ -1,6 +1,6 @@
 {
-  "code": "classchangereceipt",
-  "class": "DestariaCharselSystem.ItemClassChangeReceipt",
+  "code": "classchangebook",
+  "class": "DestariaCharselSystem.ItemClassChangeBook",
   "maxstacksize": 1,
   "useable": true,
   "heldTpUseAnimation": "use",
@@ -19,7 +19,7 @@
     }
   },
   "shape": { "base": "game:block/clutter/bookshelves/small-normal" },
-  "textures": { "cover": { "base": "game:item/lore/normal-darkgreen" } },
+  "textures": { "cover": { "base": "destariacharselsystem:normal-pink" } },
   "creativeInventory": { "general": ["*"], "items": ["*"] },
   "guiTransform": { "translation": {"x":0,"y":0,"z":0}, "rotation":{"x":-180,"y":123,"z":33}, "origin":{"x":0.48,"y":0.21,"z":0.5}, "scaleXyz":{"x":-3.23,"y":3.23,"z":3.23} },
   "fpHandTransform": { "translation":{"x":0,"y":0.2,"z":0}, "rotation":{"x":-14,"y":-152,"z":28}, "origin":{"x":0.5,"y":0.1,"z":0.5}, "scale":2.07 },

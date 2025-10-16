@@ -7,7 +7,7 @@ using DestariaCharselSystem;
 
 namespace DestariaCharselSystem
 {
-    public class ItemClassChangeReceipt : Item
+    public class ItemClassChangeBook : Item
     {
 
         public override void OnHeldInteractStart(ItemSlot itemslot, EntityAgent byEntity, BlockSelection blockSel, EntitySelection entitySel, bool firstEvent, ref EnumHandHandling handling)
