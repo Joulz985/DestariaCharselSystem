@@ -6,7 +6,7 @@
         "Joulz"
     ],
     "description": "Adds a new merchant that sells a new unique class change book. Merchant and item do not spawn naturally in world!",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "game": "1.21.0"
     },

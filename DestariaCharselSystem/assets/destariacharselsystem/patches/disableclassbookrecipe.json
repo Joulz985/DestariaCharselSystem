@@ -1,0 +1,14 @@
+[
+    {
+        "op": "add",
+        "path": "/0/enabled",
+        "file": "destariacharselsystem:recipes/grid/classchangebook.json",
+        "side": "Server",
+        "value": false,
+        "condition": {
+            "when": "EnableClassBookRecipe",
+            "isValue": "false"
+        }
+    }
+
+]

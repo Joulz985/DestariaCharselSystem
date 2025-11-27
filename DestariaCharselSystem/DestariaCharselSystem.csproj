@@ -24,6 +24,10 @@
       <HintPath>$(VINTAGE_STORY)/Lib/0Harmony.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="protobuf-net">
+        <HintPath>$(VINTAGE_STORY)/Lib/protobuf-net.dll</HintPath>
+        <Private>False</Private>
+    </Reference>
   </ItemGroup>
 
 <ItemGroup>
@@ -36,10 +40,6 @@
   <Content Include="modicon.png" Condition="Exists('modicon.png')">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </Content>
-</ItemGroup>
-
-<ItemGroup>
-  <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 </ItemGroup>
 
 </Project>
